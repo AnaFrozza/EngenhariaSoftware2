@@ -1,6 +1,7 @@
 /* -------------------------------
 UTFPR-CM DACOM Engenharia de Software
 Autor: Ana Carolina Frozza 
+GIT: https://github.com/AnaFrozza/EngenhariaSoftware2
 ---------------------------------- */
 #include<stdio.h>
 #include<stdlib.h>
